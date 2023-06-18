@@ -1,11 +1,3 @@
 h1, p {
   font-family: Lato;
 }
-
-.clicked {
-  color: red;
-}
-
-li {
-  cursor: pointer;
-}
