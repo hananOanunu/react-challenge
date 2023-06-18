@@ -4,7 +4,7 @@ import Name from './Name';
 import './style.css';
 
 /*
-   Your challenge should you choose to accept it:
+   Your mission, should you choose to accept it:
    1. Fetch a list of users from https://jsonplaceholder.typicode.com/users.
    2. Display the users ID, Name and Email, as a table, where each raw represent a single user
    3. The users should be displayed ordered by ID.
